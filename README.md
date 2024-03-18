@@ -1,13 +1,18 @@
   
 # Technologies 
 
-- Programming: C, C++, Python, Java, Javascript
+- Programming: C, C++, Python, Java, Javascript, HTML, CSS
 - Frameworks: Node.js, React, Flask
 - Data Analysis: R, Rstudio
 - Databases: PostgreSQL
+- Geospatial: ArcGIS Pro
 
-- # Projects
+# Personal Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hussein-249&repo=waypoint-api&theme=vue-dark)](https://github.com/Hussein-249/waypoint-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hussein-249&repo=tinylexer&theme=vue-dark)](https://github.com/Hussein-249/tinylexer)
+# Coursework
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hussein-249&repo=PostgreSQL-CRUD&theme=vue-dark)](https://github.com/Hussein-249/PostgreSQL-CRUD)
+
 
 # Stats
 <div align="center">
