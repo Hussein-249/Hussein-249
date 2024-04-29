@@ -2,10 +2,6 @@
 
 🇩🇪 Ich studiere Informatik (Computer Science) und suche nach Praktikums- und Forschungsmöglichkeiten. In meinem Blog schreibe ich über Medien und Mensch-Computer-Interaktion.
 
-# Technologies / Programmiersprachen
-
-Ich würde alle Programmiersprachen auflisten, die ich "kann" (sozusagen), wenn es einen Unterschied machen würde. Aber wenn man Student ist, scheinen Projekte als Kompetenznachweis besser zu funktionieren. Schauen Sie sich also bitte die Statistikkarte für meine meistgenutzten Programmiersprachen an.
-
 # Coursework / Kursarbeit
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hussein-249&repo=PostgreSQL-CRUD&theme=transparent)](https://github.com/Hussein-249/PostgreSQL-CRUD)
 
