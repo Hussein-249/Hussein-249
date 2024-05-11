@@ -5,14 +5,21 @@
 
 ## Projects / Projekten
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussein-249&repo=waypoint-api&theme=transparent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussein-249&repo=tinylexer&theme=transparent">  
+  <a href="https://github.com/Hussein-249/waypoint-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussein-249&repo=waypoint-api&theme=transparent">
+  </a>
+  <a href="https://github.com/Hussein-249/tinylexer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussein-249&repo=tinylexer&theme=transparent">
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussein-249&repo=dynamic-multipage-template&theme=transparent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussein-249&repo=PostgreSQL-CRUD&theme=transparent">
-  
+  <a href="https://github.com/Hussein-249/dynamic-multipage-template">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussein-249&repo=dynamic-multipage-template&theme=transparent">
+  </a>
+  <a href="https://github.com/Hussein-249/PostgreSQL-CRUD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussein-249&repo=PostgreSQL-CRUD&theme=transparent">
+  </a>
 </div>
 
   <br>
