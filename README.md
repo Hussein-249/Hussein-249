@@ -1,7 +1,7 @@
-🇬🇧 I am a student software developer seeking internship opportunities. I write about human-computer interaction on my blog.
+🇬🇧 I am a student software developer seeking internship and research opportunities.
 <br>
 <br>
-🇩🇪 Ich studiere Informatik (Computer Science) und suche nach Praktikums- und Forschungsmöglichkeiten. In meinem Blog schreibe ich über Medien und Mensch-Computer-Interaktion.
+🇩🇪 Ich studiere Informatik (Computer Science) und suche nach Praktikums- und Forschungsmöglichkeiten.
 
 ## Projects / Projekten
 <div align="center">
@@ -25,7 +25,6 @@
   <br>
   <br>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hussein-249&repo=waypoint-api&theme=transparent)](https://github.com/Hussein-249/waypoint-api) -->
 <div align="center">
   <img height="350" src="https://github.com/Hussein-249/Hussein-249/assets/105606941/d3b57b68-dbf8-46c9-bc38-841e6039b062">
 </div>
