@@ -1,4 +1,4 @@
-## About 
+# About 
 🇬🇧 I am a student software developer seeking internship and research opportunities.
 <br>
 <br>
@@ -26,8 +26,11 @@
 </div>
 
 <div align="center">
-     <a href="https://github.com/Hussein-249/CTgraph">
+  <a href="https://github.com/Hussein-249/CTgraph">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussein-249&repo=CTgraph&theme=transparent">
+  </a>
+  <a href="https://github.com/Hussein-249/CTgraph">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussein-249&repo=logitech3d-driver&theme=transparent">
   </a>
 </div>
 
@@ -35,6 +38,6 @@
 
 ## Stats / Statistik
 <div align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussein-249&layout=donut&langs_count=6&hide=css,html,ejs&theme=transparent" alt="Top Languages">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Hussein-249&show_icons=true&count_private=true&theme=transparent" alt="GitHub Stats">
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussein-249&layout=compact&langs_count=8&hide=css,ejs&theme=transparent" alt="Top Languages">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Hussein-249&show_icons=true&count_private=true&theme=transparent&rank_icon=github" alt="GitHub Stats">
 </div>
