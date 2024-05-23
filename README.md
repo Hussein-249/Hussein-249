@@ -2,7 +2,7 @@
 An aspiring software developer seeking internships and research opportunities.
 <br>
 <br>
-<i>Ich studiere Informatik un KI (Computer Science w/ specialization in AI) und suche nach Praktikums- und Forschungsmöglichkeiten.<i>
+<i>Ich studiere Informatik und KI (Computer Science w/ specialization in AI) und suche nach Praktikums- und Forschungsmöglichkeiten.</i>
 
 ## Stats / Statistik
 <div align="center">
