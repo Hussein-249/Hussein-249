@@ -2,9 +2,7 @@
 An aspiring software developer seeking internships and research opportunities.
 <br>
 <br>
-<i>Ich studiere Informatik und KI (bzw. Computer Science, Vertiefungsgebiet AI / ML) und suche nach Praktikums- und Forschungsmöglichkeiten.
-
-Ich arbeite momentan an mehreren Fullstack- und Desktop-Projekten. Mein Ziel ist es, dass jedes Projekt umfassend, gut implementiert und gründlich dokumentiert ist, daher meine geringe Anzahl an Repos.</i>
+<i>Ich studiere Informatik und KI (bzw. Computer Science, Vertiefungsgebiet AI / ML) und suche nach Praktikums- und Forschungsmöglichkeiten. Ich arbeite momentan an mehreren Fullstack- und Desktop-Projekten.</i>
 
 
 ##
