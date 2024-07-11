@@ -1,8 +1,7 @@
 I am an aspiring software developer open to internships and research opportunities.
 <br>
 <br>
-<i>Ich studiere Informatik und KI (bzw. Computer Science, Vertiefungsgebiet AI / ML) und suche nach Praktikums- und Forschungsmöglichkeiten. Ich arbeite momentan an mehreren Fullstack- und Desktop-Projekten.</i>
-
+<i>Ich studiere Informatik (bzw. Computer Science, Vertiefungsgebiet AI / ML) und suche nach Praktikums- und Forschungsmöglichkeiten.</i>
 
 ##
 <div align="center">
